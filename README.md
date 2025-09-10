@@ -39,7 +39,12 @@ Ramadan (Musli) Ramusholli 1012258204 00086-0 Fsh. Manastric - Ferizaj
 +38346600082
 301/2024
 
+Izjadin (Shefshet) Ramusholli
+1172967716
 00045-0,00085-1,00085-2
++38346699666
+Manastirc
+Ferizaj
 
 
 ```
@@ -67,6 +72,8 @@ SEJDIU
 Izjadin (Shefshet) Ramusholli
 1172967716
 +38346699666
+10 m²
+
 
 00045-1
 3751
@@ -83,6 +90,7 @@ Isuf (Avdulla) Ramusholli
 Muhamet (Isuf) Ramusholli
 1013105762
 
+
 Manastirc
 Ferizaj
 
@@ -92,9 +100,14 @@ Ferizaj
 ```
 Me kërkesën e pronarit faktik z. Muhamet (Isuf) Ramusholli me nr. të
 letërnjoftimit 1013105762 (trashigimitari i z. Isuf (Avdullah)Ramusholli me nr.
-të letërnjoftimit 1005590937), është bërë matje për rregullimin e kufirit me as
-parcelës 00045-0 dhe parcelave 00085-1 dhe 00085-2 me pronaë z. Izjadin
-(Shefshet) Ramusholli me nr. të letërnjoftimit 1172967716.
+të letërnjoftimit 1005590937), është bërë matje për rregullimin e kufirit mes
+parcelës 00045-0 dhe parcelave 00085-1 dhe 00085-2 me pronaë z. Izjadin (Shefshet) Ramusholli 
+me nr. të letërnjoftimit 1172967716.
+Kufiri mes parcelave zhvendoset nga pikat 3290 në pikën 7 dhe nga pika 8650 në pikën 1 pra nga kufiri aktual zyrtarë në murin që shërben si kufi faktik , pronarët duan ta regjistrojnë si kufi zyrtarë mes parcelave të lartëcekura!
+
+Muhamet (Isuf) Ramusholli    Izjadin (Shefshet) Ramusholli 
+                             
+____________                 ____________
+Nënshkrimi                   Nënshkrimi
 
 ```
-
