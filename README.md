@@ -39,6 +39,7 @@ Ramadan (Musli) Ramusholli 1012258204 00086-0 Fsh. Manastric - Ferizaj
 +38346600082
 301/2024
 
+252/2025
 Izjadin (Shefshet) Ramusholli
 1172967716
 00045-0,00085-1,00085-2
