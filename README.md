@@ -20,6 +20,7 @@ Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia
     00086-0	3669	m²	    00086-1	260	m²
 			                00086-2	3409	m²
 Gjithsej	3669	m²	Gjithsej	3669	m²
++38346699666
 
 ```
 
