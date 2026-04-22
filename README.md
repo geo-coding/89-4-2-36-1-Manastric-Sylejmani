@@ -1,3 +1,63 @@
+# riregjistrimi
+
+# parcela
+
+```
+00045-1
+3751
+Arë (4)
+
+00045-2
+Oborr           417
+Shtëpi-Ndërtese  66
+                483
+
+```
+
+# pronari
+
+```
+Sylejman (Isuf) Ramusholli
+1004517853
+
+Muhamet (Isuf) Ramusholli
+1013105762
+
+Ilaz (Isuf) Ramusholli
+2005590917
+
+Ferizaj
+Manastirc
+Rr. "Shefqet Ramusholli, 31"
++38344380037
+
+
+```
+
+# kerkesa
+
+```
+091/2026
+83/1172-140/26
+Sylejman (Isuf) Ramusholli
+1004517853
+Muhamet (Isuf) Ramusholli
+1013105762
+Ilaz (Isuf) Ramusholli
+2005590917
+Ferizaj
+Manastirc
+Rr. "Shefqet Ramusholli, 31"
++38344380037
+00045-1,00045-2
+
+00045-1
+00045-2
+
+```
+
+# landa vjeter
+
 # pronari
 
 ```
@@ -114,12 +174,12 @@ Ferizaj
 Me kërkesën e pronarit faktik z. Muhamet (Isuf) Ramusholli me nr. të
 letërnjoftimit 1013105762 (trashigimitari i z. Isuf (Avdullah)Ramusholli me nr.
 të letërnjoftimit 1005590937), është bërë matje për rregullimin e kufirit mes
-parcelës 00045-0 dhe parcelave 00085-1 dhe 00085-2 me pronaë z. Izjadin (Shefshet) Ramusholli 
+parcelës 00045-0 dhe parcelave 00085-1 dhe 00085-2 me pronaë z. Izjadin (Shefshet) Ramusholli
 me nr. të letërnjoftimit 1172967716.
 Kufiri mes parcelave zhvendoset nga pikat 3290 në pikën 7 dhe nga pika 8650 në pikën 1 pra nga kufiri aktual zyrtarë në murin që shërben si kufi faktik , pronarët duan ta regjistrojnë si kufi zyrtarë mes parcelave të lartëcekura!
 
-Muhamet (Isuf) Ramusholli    Izjadin (Shefshet) Ramusholli 
-                             
+Muhamet (Isuf) Ramusholli    Izjadin (Shefshet) Ramusholli
+
 ____________                 ____________
 Nënshkrimi                   Nënshkrimi
 
