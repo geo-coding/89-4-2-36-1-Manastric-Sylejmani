@@ -12,6 +12,8 @@ Oborr           417
 Shtëpi-Ndërtese  66
                 483
 
+4279
+
 ```
 
 # pronari
@@ -50,6 +52,10 @@ Manastirc
 Rr. "Shefqet Ramusholli, 31"
 +38344380037
 00045-1,00045-2
+
+$ dyfishet
+
+3845,3846
 
 00045-1
 00045-2
