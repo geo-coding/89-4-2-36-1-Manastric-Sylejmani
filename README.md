@@ -1,6 +1,6 @@
 # riregjistrimi
 
-# parcela
+## parcela
 
 ```
 00045-1
@@ -13,6 +13,44 @@ Shtëpi-Ndërtese  66
                 483
 
 4279
+
+```
+# bashkimi
+
+## parcela
+```
+
+00041-0
+1645
+1611.7
+Arë (4)
+
+00042-0
+1595
+1601.6
+Arë (4)
+
+00043-0
+4783
+4754
+Arë (4)
+
+00044-0
+329
+323.0
+Arë (4)
+
+00045-1
+3751
+3795.5
+Arë (4)
+
+00045-2
+483
+483.0
+Oborr           417
+Shtëpi-Ndërtese 66
+Gjithsej:       483
 
 ```
 
@@ -41,6 +79,9 @@ Rr. "Shefqet Ramusholli, 31"
 ```
 091/2026
 83/1172-140/26
+
+106/2026
+102/1172-140/26
 Sylejman (Isuf) Ramusholli
 1004517853
 Muhamet (Isuf) Ramusholli
@@ -51,11 +92,21 @@ Ferizaj
 Manastirc
 Rr. "Shefqet Ramusholli, 31"
 +38344380037
-00045-1,00045-2
+00041-0,00042-0,00043-0,00044-0,00045-1,00045-2
 
 $ dyfishet
 
 3845,3846
+
+
+
+00041-0
+00042-0
+00043-0
+00044-0
+00045-1
+00045-2
+
 
 00045-1
 00045-2
@@ -67,7 +118,7 @@ $ dyfishet
 # pronari
 
 ```
-P-72217057-00086-0
+00086-0
 3610
 3669
 +59
@@ -76,7 +127,7 @@ Arë (4)
 Ramadan (Musli) Ramusholli 1012258204
 Hamdi (Musli) Ramusholli 1005779283
 
-P-72217057-00045-0
+00045-0
 ISUF (AVDULLAH) RAMUSHOLLI
 ISUF (AVDULLAH) RAMUSHOLLI
 
