@@ -264,3 +264,10 @@ ____________                 ____________
 Nënshkrimi                   Nënshkrimi
 
 ```
+# Kembimi
+,,,
+Diferenca mes asaj qe merr dhe qe jep eshte 32.54 m² (jep).
+"Merr" 80.52 m² kurse "Jep" 113.06 m².
+Tabela me e detajuar eshte vendosur tek koordinatat e pikave tek file i bashkimit te parcelave ne nje exel sheet te veqante me titull "Kembimi...".
+
+,,,
