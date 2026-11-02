@@ -14,6 +14,12 @@ Shtëpi-Ndërtese  66
 
 4279
 
+00795-0	
+Oborr             417
+Shtëpi-Ndërtese	   66
+Arë (4)	        12086
+Gjithësej	    12569
+
 ```
 # bashkimi
 
@@ -72,8 +78,6 @@ Gjithsej:       483
 
 
 
-
-
 # pronari
 
 ```
@@ -102,17 +106,16 @@ Rr. "Shefqet Ramusholli, 31"
 
 106/2026
 102/1172-140/26
+
+270/2026
+312/1172-140/26
 Sylejman (Isuf) Ramusholli
 1004517853
-Muhamet (Isuf) Ramusholli
-1013105762
-Ilaz (Isuf) Ramusholli
-2005590917
 Ferizaj
 Manastirc
+00795-0
 Rr. "Shefqet Ramusholli, 31"
 +38344380037
-00041-0,00042-0,00043-0,00044-0,00045-1,00045-2
 
 $ dyfishet
 
@@ -265,9 +268,12 @@ Nënshkrimi                   Nënshkrimi
 
 ```
 # Kembimi
-,,,
+
+```
 Diferenca mes asaj qe merr dhe qe jep eshte 32.54 m² (jep).
 "Merr" 80.52 m² kurse "Jep" 113.06 m².
 Tabela me e detajuar eshte vendosur tek koordinatat e pikave tek file i bashkimit te parcelave ne nje exel sheet te veqante me titull "Kembimi...".
 
-,,,
+```
+
+
